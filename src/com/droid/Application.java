@@ -81,7 +81,7 @@ public class Application extends Activity{
     		}
     	
     	
-    	
+    	//dfdfgdfg
     	 this.output = (TextView) this.findViewById(R.id.out_text);
     	
     	 StringBuilder sb = new StringBuilder();
