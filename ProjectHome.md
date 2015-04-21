@@ -1,0 +1,1 @@
+Manage contacts, applications and media files according to their usage.
